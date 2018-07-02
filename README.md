@@ -1,2 +1,2 @@
 # Hello-World
-this is my first use GigHub 
+it is my first time to use GigHub 
